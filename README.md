@@ -13,11 +13,11 @@
 
 3.Run main.py python file to see the result 
 
-![interface](https://github.com/GabrielVrabie007/Emotion_Gender_Age_Recogniton/assets/126396047/acc562af-01f9-4c38-be31-12259de8ebee)
+![interface](https://github.com/GabrielVrabie007/Emotion_Gender_Age_recognition/assets/126396047/f9b3cb5e-02dc-4154-ac7b-268ff6e13759)
 
 4.Choose option(Live or Upload image from computer files-only JPEG/JPG/PNG)
+![img_1](https://github.com/GabrielVrabie007/Emotion_Gender_Age_recognition/assets/126396047/e5583318-de0e-48fe-97a7-91bd50d04bf2)
 
-![img_1](https://github.com/GabrielVrabie007/Emotion_Gender_Age_Recogniton/assets/126396047/2f35c444-5c61-4438-8730-f90beba27029)
 
  
 
