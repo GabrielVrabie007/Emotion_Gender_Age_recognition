@@ -1,0 +1,10 @@
+customtkinter~=5.2.2
+opencv-python~=4.9.0.80
+numpy~=1.26.4
+deepface~=0.0.91
+cv2
+deepface
+unittest
+unittest.mock
+tkinter
+os
